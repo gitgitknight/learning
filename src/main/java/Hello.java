@@ -6,5 +6,10 @@ public class Hello {
 
     public void hello(){
         System.out.println("123");
+
+    }
+
+    public void funcitonOne(){
+        System.out.println(123);
     }
 }
