@@ -13,4 +13,9 @@ public class HelleOne {
     public void HelloOne(){
         System.out.println("HelloOne");
     }
+
+
+    public void HiOne(){
+        System.out.println("hi");
+    }
 }
